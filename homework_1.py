@@ -26,7 +26,7 @@ name = input('Как тебя зовут?: ')
 city = input('В каком городе ты живешь?: ')
 age = int(input('Сколько тебе лет?: '))
 
-print(f'Привет {name}, ты живешь в {city}, у тебя очень красивый город, тебе {age}. ')
+print(f'Привет {name}, ты живешь в {city}, у тебя очень красивый город, тебе {age} года(лет). ')
 print(type(name))
 print(type(city))
 print(type(age))
