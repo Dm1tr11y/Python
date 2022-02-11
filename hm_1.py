@@ -1,6 +1,9 @@
-number = 5
+number = 10
 number_1 = 10
+number_2 = 14
+number_3 = 20
 
-result = number_1 - number
-
-print(result)
+if number > 0:
+   print('good')
+if number < 0:
+   print('no good')
